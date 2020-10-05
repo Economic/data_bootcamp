@@ -5,6 +5,6 @@
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)
 
 ### First steps in R
-[Slides](zipperer_firststepsR_slides.pdf)
-[acs_2018.dta](acs_2018.dta)
-[epi_wage_percentiles.csv](epi_wage_percentiles.csv)
+[Slides](zipperer_firststepsR_slides.pdf)  
+[acs_2018.dta](acs_2018.dta)  
+[epi_wage_percentiles.csv](epi_wage_percentiles.csv)  
