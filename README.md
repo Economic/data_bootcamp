@@ -8,3 +8,4 @@
 [Slides](zipperer_firststepsR_slides.pdf)  
 [acs_2018.dta](acs_2018.dta)  
 [epi_wage_percentiles.csv](epi_wage_percentiles.csv)  
+[acs_wage_analysis.R](acs_wage_analysis.R)
