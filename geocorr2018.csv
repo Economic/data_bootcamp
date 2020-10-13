@@ -1,0 +1,157 @@
+"state","puma12","county14","stab","cntyname2","PUMAname","pop10","afact"
+"State code","PUMA (2012)","County code (2014)","State abbreviation","2014 county name","PUMA12 name","Population (2010)","puma12 to county14 allocation factor"
+"51","01301","51013","VA","Arlington VA","Arlington County (North)",105186,1 
+"51","01302","51013","VA","Arlington VA","Arlington County (South)",102441,1 
+"51","04101","51041","VA","Chesterfield VA","Chesterfield County (East)--James River Region",104543,1 
+"51","04102","51041","VA","Chesterfield VA","Chesterfield County (Central)--Chester & Rockwood",111527,1 
+"51","04103","51041","VA","Chesterfield VA","Chesterfield County (West)--Brandermill & Woodlake",100166,1 
+"51","10701","51107","VA","Loudoun VA","Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village)",102704,1 
+"51","10702","51107","VA","Loudoun VA","Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport",105893,1 
+"51","10703","51107","VA","Loudoun VA","Loudoun County (West & South)--Leesburg Town",103714,1 
+"51","51010","51027","VA","Buchanan VA","LENOWISCO & Cumberland Plateau Planning District Commissions",24098,0.116 
+"51","51010","51051","VA","Dickenson VA","LENOWISCO & Cumberland Plateau Planning District Commissions",15903,0.076 
+"51","51010","51105","VA","Lee VA","LENOWISCO & Cumberland Plateau Planning District Commissions",25587,0.123 
+"51","51010","51167","VA","Russell VA","LENOWISCO & Cumberland Plateau Planning District Commissions",28897,0.139 
+"51","51010","51169","VA","Scott VA","LENOWISCO & Cumberland Plateau Planning District Commissions",23177,0.111 
+"51","51010","51185","VA","Tazewell VA","LENOWISCO & Cumberland Plateau Planning District Commissions",45078,0.217 
+"51","51010","51195","VA","Wise VA","LENOWISCO & Cumberland Plateau Planning District Commissions",41452,0.199 
+"51","51010","51720","VA","Norton city VA","LENOWISCO & Cumberland Plateau Planning District Commissions",3958,0.019 
+"51","51020","51021","VA","Bland VA","Mount Rogers Planning District Commission",6824,0.035 
+"51","51020","51035","VA","Carroll VA","Mount Rogers Planning District Commission",30042,0.155 
+"51","51020","51077","VA","Grayson VA","Mount Rogers Planning District Commission",15533,0.08 
+"51","51020","51173","VA","Smyth VA","Mount Rogers Planning District Commission",32208,0.166 
+"51","51020","51191","VA","Washington VA","Mount Rogers Planning District Commission",54876,0.283 
+"51","51020","51197","VA","Wythe VA","Mount Rogers Planning District Commission",29235,0.151 
+"51","51020","51520","VA","Bristol city VA","Mount Rogers Planning District Commission",17835,0.092 
+"51","51020","51640","VA","Galax city VA","Mount Rogers Planning District Commission",7042,0.036 
+"51","51040","51063","VA","Floyd VA","New River Valley Planning District Commission",15279,0.086 
+"51","51040","51071","VA","Giles VA","New River Valley Planning District Commission",17286,0.097 
+"51","51040","51121","VA","Montgomery VA","New River Valley Planning District Commission",94392,0.53 
+"51","51040","51155","VA","Pulaski VA","New River Valley Planning District Commission",34872,0.196 
+"51","51040","51750","VA","Radford city VA","New River Valley Planning District Commission",16408,0.092 
+"51","51044","51161","VA","Roanoke VA","Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)",8093,0.062 
+"51","51044","51770","VA","Roanoke city VA","Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)",97032,0.747 
+"51","51044","51775","VA","Salem city VA","Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)",24802,0.191 
+"51","51045","51005","VA","Alleghany VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",16250,0.081 
+"51","51045","51023","VA","Botetourt VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",33148,0.165 
+"51","51045","51045","VA","Craig VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",5190,0.026 
+"51","51045","51067","VA","Franklin VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",56159,0.279 
+"51","51045","51161","VA","Roanoke VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",84283,0.419 
+"51","51045","51580","VA","Covington city VA","Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities)",5961,0.03 
+"51","51080","51015","VA","Augusta VA","Central Shenandoah Planning District Commission (Southwest)",73750,0.457 
+"51","51080","51017","VA","Bath VA","Central Shenandoah Planning District Commission (Southwest)",4731,0.029 
+"51","51080","51091","VA","Highland VA","Central Shenandoah Planning District Commission (Southwest)",2321,0.014 
+"51","51080","51163","VA","Rockbridge VA","Central Shenandoah Planning District Commission (Southwest)",22307,0.138 
+"51","51080","51530","VA","Buena Vista city VA","Central Shenandoah Planning District Commission (Southwest)",6650,0.041 
+"51","51080","51678","VA","Lexington city VA","Central Shenandoah Planning District Commission (Southwest)",7042,0.044 
+"51","51080","51790","VA","Staunton city VA","Central Shenandoah Planning District Commission (Southwest)",23746,0.147 
+"51","51080","51820","VA","Waynesboro city VA","Central Shenandoah Planning District Commission (Southwest)",21006,0.13 
+"51","51084","51043","VA","Clarke VA","Northern Shenandoah Valley Regional Commission (North)",14034,0.118 
+"51","51084","51069","VA","Frederick VA","Northern Shenandoah Valley Regional Commission (North)",78305,0.661 
+"51","51084","51840","VA","Winchester city VA","Northern Shenandoah Valley Regional Commission (North)",26203,0.221 
+"51","51085","51139","VA","Page VA","Northern Shenandoah Valley Regional Commission (South)",24042,0.232 
+"51","51085","51171","VA","Shenandoah VA","Northern Shenandoah Valley Regional Commission (South)",41993,0.405 
+"51","51085","51187","VA","Warren VA","Northern Shenandoah Valley Regional Commission (South)",37575,0.363 
+"51","51087","51047","VA","Culpeper VA","Rappahannock-Rapidan Regional Commission",46689,0.281 
+"51","51087","51061","VA","Fauquier VA","Rappahannock-Rapidan Regional Commission",65203,0.393 
+"51","51087","51113","VA","Madison VA","Rappahannock-Rapidan Regional Commission",13308,0.08 
+"51","51087","51137","VA","Orange VA","Rappahannock-Rapidan Regional Commission",33481,0.202 
+"51","51087","51157","VA","Rappahannock VA","Rappahannock-Rapidan Regional Commission",7373,0.044 
+"51","51089","51003","VA","Albemarle VA","Thomas Jefferson Planning District Commission (South & East)",36937,0.333 
+"51","51089","51065","VA","Fluvanna VA","Thomas Jefferson Planning District Commission (South & East)",25691,0.232 
+"51","51089","51109","VA","Louisa VA","Thomas Jefferson Planning District Commission (South & East)",33153,0.299 
+"51","51089","51125","VA","Nelson VA","Thomas Jefferson Planning District Commission (South & East)",15020,0.136 
+"51","51090","51003","VA","Albemarle VA","Thomas Jefferson Planning District Commission (North)",62033,0.501 
+"51","51090","51079","VA","Greene VA","Thomas Jefferson Planning District Commission (North)",18403,0.149 
+"51","51090","51540","VA","Charlottesville city VA","Thomas Jefferson Planning District Commission (North)",43475,0.351 
+"51","51095","51009","VA","Amherst VA","Virginias Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City",32353,0.265 
+"51","51095","51011","VA","Appomattox VA","Virginias Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City",14973,0.123 
+"51","51095","51019","VA","Bedford VA (R)","Virginias Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City",74898,0.613 
+"51","51096","51031","VA","Campbell VA","Virginias Region 2000 (South)--Campbell County & Lynchburg City",54842,0.421 
+"51","51096","51680","VA","Lynchburg city VA","Virginias Region 2000 (South)--Campbell County & Lynchburg City",75568,0.579 
+"51","51097","51089","VA","Henry VA","West Piedmont Planning District Commission",54151,0.281 
+"51","51097","51141","VA","Patrick VA","West Piedmont Planning District Commission",18490,0.096 
+"51","51097","51143","VA","Pittsylvania VA","West Piedmont Planning District Commission",63506,0.329 
+"51","51097","51590","VA","Danville city VA","West Piedmont Planning District Commission",43055,0.223 
+"51","51097","51690","VA","Martinsville city VA","West Piedmont Planning District Commission",13821,0.072 
+"51","51105","51007","VA","Amelia VA","Southside Planning District Commission & Commonwealth Regional Council",12690,0.066 
+"51","51105","51025","VA","Brunswick VA","Southside Planning District Commission & Commonwealth Regional Council",17434,0.091 
+"51","51105","51029","VA","Buckingham VA","Southside Planning District Commission & Commonwealth Regional Council",17146,0.09 
+"51","51105","51037","VA","Charlotte VA","Southside Planning District Commission & Commonwealth Regional Council",12586,0.066 
+"51","51105","51049","VA","Cumberland VA","Southside Planning District Commission & Commonwealth Regional Council",10052,0.053 
+"51","51105","51083","VA","Halifax VA","Southside Planning District Commission & Commonwealth Regional Council",36241,0.19 
+"51","51105","51111","VA","Lunenburg VA","Southside Planning District Commission & Commonwealth Regional Council",12914,0.068 
+"51","51105","51117","VA","Mecklenburg VA","Southside Planning District Commission & Commonwealth Regional Council",32727,0.171 
+"51","51105","51135","VA","Nottoway VA","Southside Planning District Commission & Commonwealth Regional Council",15853,0.083 
+"51","51105","51147","VA","Prince Edward VA","Southside Planning District Commission & Commonwealth Regional Council",23368,0.122 
+"51","51110","51165","VA","Rockingham VA","Central Shenandoah Planning District Commission (Northeast)",76314,0.609 
+"51","51110","51660","VA","Harrisonburg city VA","Central Shenandoah Planning District Commission (Northeast)",48914,0.391 
+"51","51115","51179","VA","Stafford VA","George Washington Regional Commission (North)",128961,0.842 
+"51","51115","51630","VA","Fredericksburg city VA","George Washington Regional Commission (North)",24286,0.158 
+"51","51120","51033","VA","Caroline VA","George Washington Regional Commission (South)",28545,0.164 
+"51","51120","51099","VA","King George VA","George Washington Regional Commission (South)",23584,0.135 
+"51","51120","51177","VA","Spotsylvania VA","George Washington Regional Commission (South)",122397,0.701 
+"51","51125","51001","VA","Accomack VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",33164,0.194 
+"51","51125","51057","VA","Essex VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",11151,0.065 
+"51","51125","51073","VA","Gloucester VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",36858,0.216 
+"51","51125","51097","VA","King and Queen VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",6945,0.041 
+"51","51125","51103","VA","Lancaster VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",11391,0.067 
+"51","51125","51115","VA","Mathews VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",8978,0.053 
+"51","51125","51119","VA","Middlesex VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",10959,0.064 
+"51","51125","51131","VA","Northampton VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",12389,0.073 
+"51","51125","51133","VA","Northumberland VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",12330,0.072 
+"51","51125","51159","VA","Richmond VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",9254,0.054 
+"51","51125","51193","VA","Westmoreland VA","Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",17454,0.102 
+"51","51135","51053","VA","Dinwiddie VA","Crater Planning District Commission",28001,0.161 
+"51","51135","51081","VA","Greensville VA","Crater Planning District Commission",12243,0.071 
+"51","51135","51149","VA","Prince George VA","Crater Planning District Commission",35725,0.206 
+"51","51135","51181","VA","Surry VA","Crater Planning District Commission",7058,0.041 
+"51","51135","51183","VA","Sussex VA","Crater Planning District Commission",12087,0.07 
+"51","51135","51570","VA","Colonial Heights city VA","Crater Planning District Commission",17411,0.1 
+"51","51135","51595","VA","Emporia city VA","Crater Planning District Commission",5927,0.034 
+"51","51135","51670","VA","Hopewell city VA","Crater Planning District Commission",22591,0.13 
+"51","51135","51730","VA","Petersburg city VA","Crater Planning District Commission",32420,0.187 
+"51","51145","51093","VA","Isle of Wight VA","Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",35270,0.24 
+"51","51145","51175","VA","Southampton VA","Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",18570,0.126 
+"51","51145","51620","VA","Franklin city VA","Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",8582,0.058 
+"51","51145","51800","VA","Suffolk city VA","Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",84585,0.575 
+"51","51154","51710","VA","Norfolk city VA","Norfolk City (Northeast)",208001,1 
+"51","51155","51710","VA","Norfolk city VA","Portsmouth & Norfolk (Southwest) Cities",34802,0.267 
+"51","51155","51740","VA","Portsmouth city VA","Portsmouth & Norfolk (Southwest) Cities",95535,0.733 
+"51","51164","51810","VA","Virginia Beach city VA","Virginia Beach City (North)",141491,1 
+"51","51165","51810","VA","Virginia Beach city VA","Virginia Beach City (Central)",170090,1 
+"51","51167","51810","VA","Virginia Beach city VA","Virginia Beach City (South)",126413,1 
+"51","51175","51700","VA","Newport News city VA","Newport News City",180719,1 
+"51","51186","51650","VA","Hampton city VA","Hampton City",137436,1 
+"51","51206","51095","VA","James City VA","James City, York Counties, Williamsburg & Poquoson Cities",67009,0.422 
+"51","51206","51199","VA","York VA","James City, York Counties, Williamsburg & Poquoson Cities",65464,0.413 
+"51","51206","51735","VA","Poquoson city VA","James City, York Counties, Williamsburg & Poquoson Cities",12150,0.077 
+"51","51206","51830","VA","Williamsburg city VA","James City, York Counties, Williamsburg & Poquoson Cities",14068,0.089 
+"51","51215","51036","VA","Charles City VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",7256,0.038 
+"51","51215","51075","VA","Goochland VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",21717,0.114 
+"51","51215","51085","VA","Hanover VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",99863,0.522 
+"51","51215","51101","VA","King William VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",15935,0.083 
+"51","51215","51127","VA","New Kent VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",18429,0.096 
+"51","51215","51145","VA","Powhatan VA","Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",28046,0.147 
+"51","51224","51087","VA","Henrico VA","Henrico County (South & East)--Highland Springs, East Highland Park & Glen Allen",140398,1 
+"51","51225","51087","VA","Henrico VA","Henrico County (West)--Tuckahoe, Short Pump & Wyndham",166537,1 
+"51","51235","51760","VA","Richmond city VA","Richmond City",204214,1 
+"51","51244","51153","VA","Prince William VA","Prince William County (North & West)--Linton Hall & Gainesville",111334,1 
+"51","51245","51153","VA","Prince William VA","Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",62725,0.546 
+"51","51245","51683","VA","Manassas city VA","Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",37821,0.329 
+"51","51245","51685","VA","Manassas Park city VA","Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",14273,0.124 
+"51","51246","51153","VA","Prince William VA","Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge",227943,1 
+"51","51255","51510","VA","Alexandria city VA","Alexandria City",139966,1 
+"51","55001","51550","VA","Chesapeake city VA","Chesapeake City (Northeast)",113140,1 
+"51","55002","51550","VA","Chesapeake city VA","Chesapeake City (South & West)",109069,1 
+"51","59301","51059","VA","Fairfax VA","Fairfax County (East Central)--Annandale, West Falls Church & Baileys Crossroads",144493,1 
+"51","59302","51059","VA","Fairfax VA","Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon",123184,1 
+"51","59303","51059","VA","Fairfax VA","Fairfax County (Central) & Fairfax City--Burke",129781,0.852 
+"51","59303","51600","VA","Fairfax city VA","Fairfax County (Central) & Fairfax City--Burke",22565,0.148 
+"51","59304","51059","VA","Fairfax VA","Fairfax County (Southwest)--Centreville (Southeast) & Lorton",102067,1 
+"51","59305","51059","VA","Fairfax VA","Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East)",114330,1 
+"51","59306","51059","VA","Fairfax VA","Fairfax County (South Central)--Springfield (South), West Springfield & Franconia",103204,1 
+"51","59307","51059","VA","Fairfax VA","Fairfax County (Northwest)--Reston (North) & Franklin Farm",159845,1 
+"51","59308","51059","VA","Fairfax VA","Fairfax County (Northeast)--McLean & Idylwood",97080,0.887 
+"51","59308","51610","VA","Falls Church city VA","Fairfax County (Northeast)--McLean & Idylwood",12332,0.113 
+"51","59309","51059","VA","Fairfax VA","Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West)",107742,1 
