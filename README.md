@@ -13,5 +13,6 @@
 ### Using R effectively 
 [Slides](zipperer_usingReffectively_slides.pdf)  
 [acs_wage_analysis_LAST_TIME.R](acs_wage_analysis_LAST_TIME.R)  
-[acs_2018.dta](acs_2018.dta)
+[acs_2018.dta](acs_2018.dta)  
+[geocorr2018.csv](geocorr2018.csv)
 
