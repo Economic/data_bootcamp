@@ -11,7 +11,7 @@
 [acs_wage_analysis.R](acs_wage_analysis.R)
 
 ### Using R effectively 
-[Slides](zipperer_usingRefficiently_slides.pdf)  
+[Slides](zipperer_usingReffectively_slides.pdf)  
 [acs_wage_analysis_LAST_TIME.R](acs_wage_analysis_LAST_TIME.R)  
 [acs_2018.dta](acs_2018.dta)
 
