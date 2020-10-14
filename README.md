@@ -9,7 +9,7 @@
 [Stata session 2 do file](https://economic.github.io/data_bootcamp/earn_data_bootcamp_session2.do)  
 [CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-alllessfe.xlsx)  
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)  
-[Full EPI CPS ORG](https://microdata.epi.org/epi_cpsorg_1979_2020.zip)  
+[Full EPI CPS ORG](https://microdata.epi.org/epi_cpsorg_1979_2020.zip) (zippped data files)
 
 ### First steps in R ([video](https://www.youtube.com/watch?v=4RVIlOKUoQ4))
 [Slides](zipperer_firststepsR_slides.pdf)  
