@@ -17,7 +17,7 @@
 [epi_wage_percentiles.csv](epi_wage_percentiles.csv)  
 [acs_wage_analysis.R](acs_wage_analysis.R)
 
-### Using R effectively ([video](https://youtu.be/ztzYo_ICH1g))
+### Using R effectively ([video](https://www.youtube.com/watch?v=ztzYo_ICH1g))
 [Slides](zipperer_usingReffectively_slides.pdf)  
 [acs_2018.dta](acs_2018.dta)  
 [geocorr2018.csv](geocorr2018.csv)  
