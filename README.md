@@ -4,7 +4,7 @@
 [Stata session 1 do file](https://economic.github.io/data_bootcamp/stata_session1.do)  
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)
 
-### Using Stata effectively  
+### Using Stata effectively ([video](https://youtu.be/GY1_VL9auDY)) 
 [Stata session 2 slides](https://economic.github.io/data_bootcamp/statatutorial_part2.pdf)  
 [Stata session 2 do file](https://economic.github.io/data_bootcamp/earn_data_bootcamp_session2.do)  
 [CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-alllessfe.xlsx)  
@@ -17,7 +17,7 @@
 [epi_wage_percentiles.csv](epi_wage_percentiles.csv)  
 [acs_wage_analysis.R](acs_wage_analysis.R)
 
-### Using R effectively (video soon)
+### Using R effectively ([video](https://youtu.be/ztzYo_ICH1g))
 [Slides](zipperer_usingReffectively_slides.pdf)  
 [acs_2018.dta](acs_2018.dta)  
 [geocorr2018.csv](geocorr2018.csv)  
