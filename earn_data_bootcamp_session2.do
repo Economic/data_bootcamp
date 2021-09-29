@@ -6,8 +6,8 @@ set more off
 clear all
 
 * Analysis with one year of data
-* load 2019 CPS ORG
-use epi_cpsorg_2019, clear
+* load 2020 CPS ORG
+use epi_cpsorg_2020, clear
 * Create indicator variable for Ohio
 generate oh = 0
 replace oh = 1 if statefip == 39
@@ -41,7 +41,7 @@ unzipfile "C:\<PATH TO FILE>\epi_cpsorg_1979_2020.zip", replace
 
 *create macro for the data directory
 local datadir C:\data\cps\
-use `datadir'epi_cpsorg_2019.dta, clear
+use `datadir'epi_cpsorg_2020.dta, clear
 
 * check sample sizes by race and sex
 tab wbho female if statefip == 39
@@ -54,16 +54,16 @@ rename avg cpiurs
 keep if cpiurs ~= .
 save cpiurs.dta, replace
 
-* Load 2017-2019 CPS ORG
-use `datadir'epi_cpsorg_2017.dta, clear
-append using `datadir'epi_cpsorg_2018.dta
+* Load 2018-2020 CPS ORG
+use `datadir'epi_cpsorg_2018.dta, clear
 append using `datadir'epi_cpsorg_2019.dta
+append using `datadir'epi_cpsorg_2020.dta
 
 merge m:1 year using cpiurs.dta
 display r(mean)
 
 * inflation adjust wages
-sum cpiurs if year == 2019
+sum cpiurs if year == 2020
 replace wage = wage * (r(mean) / cpiurs)
 
 *calculate avg wages by race
@@ -82,9 +82,9 @@ export excel using ohio_wages_pooled_years.xlsx, ///
   
 * loop example
 * load one year of data
-use `datadir'epi_cpsorg_2010.dta,clear
-* append years 2011-2019
-forvalues year = 2011/2019{
+use `datadir'epi_cpsorg_2011.dta,clear
+* append years 2012-2020
+forvalues year = 2011/2020{
     append using `datadir'epi_cpsorg_`year'.dta
 }
 * display years now available in memory
