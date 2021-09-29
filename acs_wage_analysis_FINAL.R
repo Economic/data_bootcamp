@@ -2,7 +2,7 @@ library(tidyverse)
 library(haven)
 
 # Load the ACS data from IPUMS
-acs <- read_dta("acs_2018.dta")
+acs <- read_dta("acs_2019.dta")
 
 #################################################
 ### RECODE ACS DATA FROM IPUMS, PARTICULARLY

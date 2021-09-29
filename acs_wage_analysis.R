@@ -2,7 +2,7 @@ library(tidyverse)
 library(haven)
 
 # Load the ACS data from IPUMS
-acs <- read_dta("/home/benzipperer/Downloads/acs_2018.dta")
+acs <- read_dta("/home/benzipperer/Downloads/acs_2019.dta")
 
 # Clean up the data
 acs_clean <- acs %>% 
