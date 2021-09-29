@@ -1,10 +1,10 @@
 ## Data bootcamp files
-### First steps in Stata ([video](https://youtu.be/68wJfeOw2cU))
+### First steps in Stata
 [Stata session 1 slides](https://economic.github.io/data_bootcamp/stata_session1.pdf)  
 [Stata session 1 do file](https://economic.github.io/data_bootcamp/stata_session1.do)  
 [EPI CPS ORG 2020 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2020.dta)
 
-### Using Stata effectively ([video](https://youtu.be/GY1_VL9auDY)) 
+### Using Stata effectively
 [Stata session 2 slides](https://economic.github.io/data_bootcamp/stata_session2.pdf)  
 [Stata session 2 do file](https://economic.github.io/data_bootcamp/earn_data_bootcamp_session2.do)  
 [CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-allitems.xlsx)  
