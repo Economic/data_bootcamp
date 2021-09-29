@@ -5,7 +5,7 @@
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)
 
 ### Using Stata effectively ([video](https://youtu.be/GY1_VL9auDY)) 
-[Stata session 2 slides](https://economic.github.io/data_bootcamp/statatutorial_part2.pdf)  
+[Stata session 2 slides](https://economic.github.io/data_bootcamp/stata_session2.pdf)  
 [Stata session 2 do file](https://economic.github.io/data_bootcamp/earn_data_bootcamp_session2.do)  
 [CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-alllessfe.xlsx)  
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)  
