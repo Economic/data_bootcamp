@@ -11,15 +11,15 @@
 [EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)  
 [Full EPI CPS ORG](https://microdata.epi.org/epi_cpsorg_1979_2020.zip) (zipped data files)
 
-### First steps in R ([video](https://www.youtube.com/watch?v=4RVIlOKUoQ4))
+### First steps in R 
 [Slides](zipperer_firststepsR_slides.pdf)  
-[acs_2018.dta](acs_2018.dta)  
+[acs_2019.dta](acs_2019.dta)  
 [epi_wage_percentiles.csv](epi_wage_percentiles.csv)  
 [acs_wage_analysis.R](acs_wage_analysis.R)
 
-### Using R effectively ([video](https://www.youtube.com/watch?v=ztzYo_ICH1g))
+### Using R effectively 
 [Slides](zipperer_usingReffectively_slides.pdf)  
-[acs_2018.dta](acs_2018.dta)  
+[acs_2019.dta](acs_2019.dta)  
 [geocorr2018.csv](geocorr2018.csv)  
 [acs_wage_analysis_LAST_TIME.R](acs_wage_analysis_LAST_TIME.R)  
 [acs_wage_analysis_FINAL.R](acs_wage_analysis_FINAL.R)
