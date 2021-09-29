@@ -47,7 +47,7 @@ use `datadir'epi_cpsorg_2020.dta, clear
 tab wbho female if statefip == 39
 
 * CPI-U-RS from https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm.
-import excel using r-cpi-u-rs-alllessfe.xlsx, cellrange(A6:N49) case(lower) firstrow clear
+import excel using r-cpi-u-rs-allitems.xlsx, cellrange(A6:N49) case(lower) firstrow clear
 
 keep year avg
 rename avg cpiurs

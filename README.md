@@ -2,14 +2,14 @@
 ### First steps in Stata ([video](https://youtu.be/68wJfeOw2cU))
 [Stata session 1 slides](https://economic.github.io/data_bootcamp/stata_session1.pdf)  
 [Stata session 1 do file](https://economic.github.io/data_bootcamp/stata_session1.do)  
-[EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)
+[EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2020.dta)
 
 ### Using Stata effectively ([video](https://youtu.be/GY1_VL9auDY)) 
 [Stata session 2 slides](https://economic.github.io/data_bootcamp/stata_session2.pdf)  
 [Stata session 2 do file](https://economic.github.io/data_bootcamp/earn_data_bootcamp_session2.do)  
-[CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-alllessfe.xlsx)  
-[EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2019.dta)  
-[Full EPI CPS ORG](https://microdata.epi.org/epi_cpsorg_1979_2020.zip) (zipped data files)
+[CPI-U-RS data](https://economic.github.io/data_bootcamp/r-cpi-u-rs-allitems.xlsx)  
+[EPI CPS ORG 2019 stata data file](https://economic.github.io/data_bootcamp/epi_cpsorg_2020.dta)  
+[Full EPI CPS ORG](https://microdata.epi.org/epi_cpsorg_1979_2021.zip) (zipped data files)
 
 ### First steps in R 
 [Slides](zipperer_firststepsR_slides.pdf)  
