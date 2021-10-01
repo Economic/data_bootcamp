@@ -1,32 +1,42 @@
 library(tidyverse)
 library(haven)
 
-# Load the ACS data from IPUMS
+# this is my analysis to calculate shares of low wage workers
+# this is a comment 
+
 acs <- read_dta("/home/benzipperer/Downloads/acs_2019.dta")
 
-# Clean up the data
 acs_clean <- acs %>% 
   # keep only workers
   filter(incwage > 0 & incwage < 999998) %>% 
   filter(uhrswork > 0) %>% 
-  # keep only full-time workers
   filter(wkswork2 == 6) %>% 
-  # restrict analysis to VA
+  # restrict to Virginia
   filter(statefip == 51) %>% 
-  # define wages and low-wage workers
+  # calculate wages
   mutate(wage = incwage / (uhrswork * 51)) %>% 
   mutate(low_wage = wage <= 15)
 
-# Do the analysis
-acs_clean %>% 
+# summarize the data
+acs_va_mean <- acs_clean %>% 
   summarize(weighted.mean(low_wage, perwt))
+acs_va_mean
 
-# by gender
-acs_clean %>%
-  group_by(sex) %>% 
-  summarize(weighted.mean(low_wage, perwt))
+# how to calculate standard errors
+# first download the "replication person weights" from IPUMS
+# these will have names like repwtp*
 
-acs_clean %>%
-  group_by(race) %>% 
-  summarize(weighted.mean(low_wage, perwt))
-
+# then use the survey package to define the survey structure
+# svy <- as_survey(
+#   acs,
+#   weight = perwt,
+#   repweights = matches("repwtp[0-9]+"),
+#   type = "JK1",
+#   scale = 4/80 ,
+#   rscales = rep(1, 80),
+#   mse = TRUE
+# )
+#
+# then run the analysis, like
+# svy %>%
+#   summarize(med = survey_mean(low_wage))
