@@ -1,4 +1,14 @@
 ## Data bootcamp files
+
+### 2022 bootcamp  
+### Data analysis in R  
+[Slides](zipperer_dataanalysisinR_slides.pdf)  
+[Historical minimum wage data](mw_state_annual.xlsx)
+[CPI-U-RS data](r-cpi-u-rs-allitems.xlsx)  
+[EPI CPS ORG data](epi_cps_org_2022.dta.zip)  
+
+### 2021 bootcamp  
+
 ### First steps in Stata ([Video](https://www.youtube.com/watch?v=t1tKg9A6NaU&list=PLOeWdRZsn2L8geg2kkqcYZniR5TBk98si&index=7))
 [Stata session 1 slides](https://economic.github.io/data_bootcamp/stata_session1.pdf)  
 [Stata session 1 do file](https://economic.github.io/data_bootcamp/stata_session1.do)  
