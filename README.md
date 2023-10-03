@@ -1,4 +1,8 @@
 # Data bootcamp files
+## 2023 Data analysis in R: First steps
+First steps to data analysis in R slides ([pdf](zipperer_firststepsR_slides.pdf))   
+EPI national wage percentiles data ([csv](epi_wage_percentiles.csv))  
+2022 EPI CPS ORG extracts data ([zipped .dta](epi_cpsorg_2022.dta.zip))
 
 ## 2022 Data analysis in R ([Video](https://www.youtube.com/watch?v=PG7T0AoxIY0&list=PLOeWdRZsn2L__Noita2w4bQwd1tMJrfLU&index=7))
 [Data analysis in R slides](zipperer_dataanalysisinR_slides.pdf)  
